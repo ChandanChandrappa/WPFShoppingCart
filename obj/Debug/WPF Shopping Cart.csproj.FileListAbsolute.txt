@@ -1,0 +1,26 @@
+C:\Users\cchandrappa\source\repos\WPF Shopping Cart\obj\Debug\MainWindow.g.cs
+C:\Users\cchandrappa\source\repos\WPF Shopping Cart\obj\Debug\Views\ProductsView.g.cs
+C:\Users\cchandrappa\source\repos\WPF Shopping Cart\obj\Debug\App.g.cs
+C:\Users\cchandrappa\source\repos\WPF Shopping Cart\obj\Debug\WPF Shopping Cart_MarkupCompile.cache
+C:\Users\cchandrappa\source\repos\WPF Shopping Cart\obj\Debug\WPF Shopping Cart_MarkupCompile.lref
+C:\Users\cchandrappa\source\repos\WPF Shopping Cart\bin\Debug\WPF Shopping Cart.exe.config
+C:\Users\cchandrappa\source\repos\WPF Shopping Cart\bin\Debug\WPF Shopping Cart.exe
+C:\Users\cchandrappa\source\repos\WPF Shopping Cart\bin\Debug\WPF Shopping Cart.pdb
+C:\Users\cchandrappa\source\repos\WPF Shopping Cart\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\cchandrappa\source\repos\WPF Shopping Cart\bin\Debug\Prism.dll
+C:\Users\cchandrappa\source\repos\WPF Shopping Cart\bin\Debug\Prism.Wpf.dll
+C:\Users\cchandrappa\source\repos\WPF Shopping Cart\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\cchandrappa\source\repos\WPF Shopping Cart\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\cchandrappa\source\repos\WPF Shopping Cart\bin\Debug\Prism.pdb
+C:\Users\cchandrappa\source\repos\WPF Shopping Cart\bin\Debug\Prism.xml
+C:\Users\cchandrappa\source\repos\WPF Shopping Cart\bin\Debug\Prism.Wpf.pdb
+C:\Users\cchandrappa\source\repos\WPF Shopping Cart\bin\Debug\Prism.Wpf.xml
+C:\Users\cchandrappa\source\repos\WPF Shopping Cart\obj\Debug\MainWindow.baml
+C:\Users\cchandrappa\source\repos\WPF Shopping Cart\obj\Debug\Views\ProductsView.baml
+C:\Users\cchandrappa\source\repos\WPF Shopping Cart\obj\Debug\WPF Shopping Cart.g.resources
+C:\Users\cchandrappa\source\repos\WPF Shopping Cart\obj\Debug\WPF_Shopping_Cart.Properties.Resources.resources
+C:\Users\cchandrappa\source\repos\WPF Shopping Cart\obj\Debug\WPF Shopping Cart.csproj.GenerateResource.cache
+C:\Users\cchandrappa\source\repos\WPF Shopping Cart\obj\Debug\WPF Shopping Cart.csproj.CoreCompileInputs.cache
+C:\Users\cchandrappa\source\repos\WPF Shopping Cart\obj\Debug\WPF Shopping Cart.csproj.CopyComplete
+C:\Users\cchandrappa\source\repos\WPF Shopping Cart\obj\Debug\WPF Shopping Cart.exe
+C:\Users\cchandrappa\source\repos\WPF Shopping Cart\obj\Debug\WPF Shopping Cart.pdb
